@@ -1,8 +1,8 @@
-# 🎤 K-Pop Concert Tracker – Backend
+# 🎀 K-Pop Concert Tracker – Backend
 
 This repository contains the Node.js backend of the K-Pop Concert Tracker. It provides a REST API and stores concert entries permanently in MongoDB Atlas.
 
-## ✨ Features
+## ⭐️ Features
 
 - Create concert entries
 - Return all concerts or one concert by ID
@@ -13,12 +13,17 @@ This repository contains the Node.js backend of the K-Pop Concert Tracker. It pr
 
 ## 🧰 Technologies
 
+### ⚙️ Backend
+
 - Node.js
 - Express
-- MongoDB Atlas
 - Mongoose
 - dotenv
 - CORS
+
+### 🗄️ Database
+
+- MongoDB Atlas
 
 ## ✅ Prerequisites
 
@@ -79,6 +84,6 @@ The backend runs on `http://localhost:3000`.
 
 All suggested code was reviewed and tested as part of the project.
 
-## 👩‍💻 Author
+## 👤 Author
 
 Ela-Nur Kuyubasioglu, 2026
