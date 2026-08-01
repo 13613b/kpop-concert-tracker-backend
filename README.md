@@ -4,12 +4,13 @@ This repository contains the Node.js backend of the K-Pop Concert Tracker. It pr
 
 ## ⭐️ Features
 
-- Create concert entries
-- Return all concerts or one concert by ID
-- Update concert entries
-- Delete concert entries
-- Validate MongoDB IDs and database input
-- Automatically add two example concerts when the database is empty
+- 🗒️ Create and store concert entries
+- ✔️ Return all concerts or one concert by ID
+- ✍️ Update existing concert entries
+- 🗑️ Delete concert entries
+- 🛡️ Validate MongoDB IDs and database input
+- 🌱 Automatically add two example concerts when the database is empty
+- 📊 Store concert data permanently in MongoDB Atlas
 
 ## 🧰 Technologies
 
