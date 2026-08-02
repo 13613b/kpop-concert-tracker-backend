@@ -83,8 +83,6 @@ The backend runs on `http://localhost:3000`.
 
 - **ChatGPT / Codex:** Used for explanations, debugging support, MongoDB integration, API error handling and documentation.
 
-All suggested code was reviewed and tested as part of the project.
-
 ## 👤 Author
 
 Ela-Nur Kuyubasioglu, 2026
